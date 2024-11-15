@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm currently a 1st year PhD at Tsinghua University, under the guidance of Prof. Zhiyuan Liu. Visit my homepage (<https://chen-yingfa.github.io>) for more info.
+
+- 🧐 I'm currently working on large language models, long-context modeling, continual learning...  
+- 👟 Sports: Badminton, jogging, etc.
+
+
 <!--
 **chen-yingfa/chen-yingfa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
